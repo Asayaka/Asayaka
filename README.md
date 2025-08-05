@@ -3,10 +3,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4ECDC4&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Automation+Developer;Server+Management;Always+learning+new+things" alt="Typing SVG" />
 </div>
 <p align="center">
-  <img src="https://i.imgur.com/8e1iJRO.gif" width="400" alt="Sleep" style="border-radius: 50px;" />
+  <img src="https://i.imgur.com/8e1iJRO.gif" width="200" alt="Sleep" style="border-radius: 50px;" />
 </p>
 <p align="center">
-  <img src="https://i.imgur.com/7LeuRth.png" alt="Banner Image" />
+  <img src="https://i.imgur.com/7LeuRth.png" width="600" alt="Banner Image" />
 </p>
 
 ---
