@@ -1,4 +1,3 @@
-<img width="623" height="192" alt="image" src="https://github.com/user-attachments/assets/2ddddd25-7ad5-4ac6-ba91-fdefc51ff8bf" /><!-- Profile Header -->
 <h1 align="center">Hi 👋</h1>
 
 <!-- GIF and Banner Image -->
