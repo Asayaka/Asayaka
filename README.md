@@ -15,7 +15,7 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,php,node,js,react,html,css,postgres,figma,github,windows,linux,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,php,node-js,js,react,html,css,postgres,figma,github,windows,linux,vscode,idea" />
 </p>
 
 ---
