@@ -12,16 +12,6 @@
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🌱 I’m currently learning **Flutter, Laravel, PostgreSQL**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Flutter, Laravel, React, HTML/CSS**
-- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
-- ⚡ Fun fact: *I enjoy solving real-world problems with code!*
-
----
-
 ### 🛠️ Languages and Tools
 
 <p align="left">
