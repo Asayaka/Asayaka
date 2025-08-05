@@ -15,17 +15,5 @@
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,laravel,php,node-js,js,react,html,css,postgres,figma,github,windows,linux,vscode,idea" />
-</p>
-
----
-
-### 📊 GitHub Stats & Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asayaka&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asayaka&theme=radical" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asayaka&hide_progress=true&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=flutter,laravel,php,js,react,html,css,postgres,figma,github,windows,linux,vscode,idea" />
 </p>
