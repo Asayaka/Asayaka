@@ -35,15 +35,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asayaka&theme=rogue&hide_border=false" alt="Activity Graph" />
 </div>
-
----
-
-## 🤝 Connect with Me
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johanwilliamtanusaputra)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-</div>
-<div align="center">
-  💡 Most of my work is in private repositories for client projects and enterprise development
-</div>
