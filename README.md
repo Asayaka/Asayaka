@@ -3,7 +3,7 @@
 
 <!-- GIF and Banner Image -->
 <p align="center">
-  <img src="https://i.imgur.com/1g3xT4M.gif" width="400" alt="Sleep" />
+  <img src="https://i.imgur.com/8e1iJRO.gif" width="400" alt="Sleep" />
 </p>
 
 <p align="center">
