@@ -1,16 +1,41 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋</h1>
 
-<!--
-**Asayaka/Asayaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GIF and Banner Image -->
+<p align="center">
+  <img src="https://i.imgur.com/1g3xT4M.gif" width="400" alt="Sleep" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://i.imgur.com/GQJ1rYr.png" alt="Banner Image" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning **Flutter, Laravel, PostgreSQL**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Flutter, Laravel, React, HTML/CSS**
+- 📫 Reach me at: **[your.email@example.com](mailto:your.email@example.com)**
+- ⚡ Fun fact: *I enjoy solving real-world problems with code!*
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,laravel,php,js,react,html,css,postgres,figma,github,windows,linux,vscode,jetbrains" />
+</p>
+
+---
+
+### 📊 GitHub Stats & Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&hide_progress=true&layout=compact&theme=radical" alt="Top Languages" />
+</p>
